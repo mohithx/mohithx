@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohithx
 - 👀 I’m interested in web-application development
-- 🌱 I’m currently learning Python-Django
+- 🌱 I’m currently developing websites/ webapplications using Django/HTML5/CSS/JS
 - 💞️ I’m looking to collaborate on ...hmm still thinking🤔
 - 📫 How to reach me ...soon...🤣
 
